@@ -2,7 +2,7 @@
 
 ## utilisation avancée des objets
 
-Le langauge JavaScript s'articule autour de l'objet, ensemble de propriétés déclaré par le couple **nom : valeur**. Lorsque une propriété est une fonction elle est nommé **méthode**. 
+Le langage JavaScript s'articule autour de l'objet, ensemble de propriétés déclaré par le couple **nom : valeur**. Lorsque une propriété est une fonction elle est nommé **méthode**. 
 En JavaScript tout est objet. On entend par là le fait que l'ensmeble des types primitifs à l'exception de *null* et *undefined* est concidéré comme un objet.
 
 
